@@ -12,6 +12,7 @@ public class SomarTest {
     
     @BeforeEach
     public void setup() {
+        // Ajuste antes de cada teste
         somar = new Somar();
     }
 
